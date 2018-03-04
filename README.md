@@ -13,6 +13,7 @@ Lista de Repositórios em php interessantes para desenvolvedor na área de ecomm
 * https://github.com/humhub/humhub > Rede social
 * https://github.com/php-ai/php-ml > Machine Learning library for PHP
 * https://github.com/mledoze/countries > Listagem de Países
+* https://github.com/PHPOffice/PHPWord > ler e escrever documentos word (não sei se rola)
 
 # TUTORIAIS LEGAIS
 * http://br.phptherightway.com/ > PHP Do Jeito Certo
