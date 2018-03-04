@@ -13,7 +13,16 @@ Lista de Repositórios em php interessantes para desenvolvedor na área de ecomm
 * https://github.com/humhub/humhub > Rede social
 * https://github.com/php-ai/php-ml > Machine Learning library for PHP
 * https://github.com/mledoze/countries > Listagem de Países
-* https://github.com/PHPOffice/PHPWord > ler e escrever documentos word (não sei se rola)
+* https://github.com/PHPOffice/ > ler e escrever documentos office (não sei se rola)
+* https://github.com/mautic/mautic > Plataforma de Marketing (tipo rdstation), porém open
+* https://github.com/mevdschee/php-crud-api > Single file PHP script that adds a REST API to a SQL database
+* https://github.com/amphp/amp > A non-blocking concurrency framework for PHP applications. https://amphp.org/amp
+* https://github.com/backup-manager/backup-manager Database backup manager for dumping to and restoring databases from S3, Dropbox, FTP, SFTP, and Rackspace Cloud
+* https://github.com/kraken-php/framework > Asynchronous & Fault-tolerant PHP Framework for Distributed Applications
+* https://github.com/matomo-org/device-detector > The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. http://devicedetector.net
 
 # TUTORIAIS LEGAIS
 * http://br.phptherightway.com/ > PHP Do Jeito Certo
+* https://github.com/marcelgsantos/learning-oop-in-php > OOP PHP
+* https://github.com/tpunt/PHP7-Reference > PHP Reference
+
