@@ -7,6 +7,7 @@ Lista de Repositórios em php interessantes para desenvolvedor na área de ecomm
 * https://github.com/nfephp-org/sped-nfe > Gerar Nota Fiscal Eletrônica
 * https://github.com/highcharts/highcharts > Gráficos em JS
 * https://github.com/opensourcepos/opensourcepos > Point of Sale
+* https://github.com/flarum/flarum > fórum com um bom design
 
 # TUTORIAIS LEGAIS
 * http://br.phptherightway.com/ > PHP Do Jeito Certo
