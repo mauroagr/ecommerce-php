@@ -24,6 +24,7 @@ Lista de Repositórios em php interessantes para desenvolvedor na área de ecomm
 * https://github.com/mjaschen/phpgeo > Simple Geo Library for PHP
 * https://github.com/jolicode/JoliNotif > Send notifications to your desktop directly from your PHP script
 * https://github.com/thorsten/phpMyFAQ > Faq
+* https://github.com/Mibew/mibew > Chat
 
 
 # TUTORIAIS LEGAIS
@@ -31,3 +32,4 @@ Lista de Repositórios em php interessantes para desenvolvedor na área de ecomm
 * https://github.com/marcelgsantos/learning-oop-in-php > OOP PHP
 * https://github.com/tpunt/PHP7-Reference > PHP Reference
 * https://github.com/PatrickLouys/no-framework-tutorial 
+* https://github.com/PavelLoparev/design-patterns
