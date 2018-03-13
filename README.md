@@ -25,7 +25,11 @@ Lista de Repositórios em php interessantes para desenvolvedor na área de ecomm
 * https://github.com/jolicode/JoliNotif > Send notifications to your desktop directly from your PHP script
 * https://github.com/thorsten/phpMyFAQ > Faq
 * https://github.com/Mibew/mibew > Chat
-* https://github.com/atech/postal > Open source mail delivery platform for incoming & outgoing e-mail
+
+
+# OUTRA LINGUAGEM, MAS COM SDK/API PARA PHP
+* https://github.com/atech/postal > Open source mail delivery platform for incoming & outgoing e-mail * 
+* https://github.com/atech/postal-php > SDK para postal em ruby
 
 
 # TUTORIAIS LEGAIS
