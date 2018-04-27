@@ -10,3 +10,6 @@
 ---
 * Laravel Básico (5.3) - Vídeos
 * https://codecasts.com.br/series/laravel-basico-53
+---
+* Tutorial Laravel - Completo
+* https://www.tutorialspoint.com/laravel/index.htm
