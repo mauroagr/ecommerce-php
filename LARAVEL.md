@@ -7,3 +7,6 @@
 ---
 * CODECASTS
 * https://www.youtube.com/channel/UCTluPqMkm90zyw6mCde561A/playlists
+---
+* Laravel Básico (5.3) - Vídeos
+* https://codecasts.com.br/series/laravel-basico-53
