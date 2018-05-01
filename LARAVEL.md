@@ -13,3 +13,6 @@
 ---
 * Tutorial Laravel - Completo
 * https://www.tutorialspoint.com/laravel/index.htm
+---
+* 13 Laravel Admin Panel Generators
+* https://laravel-news.com/13-laravel-admin-panel-generators
