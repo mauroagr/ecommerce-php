@@ -21,5 +21,8 @@
 * Integrate AdminLTE with Laravel 5
 * https://adminlte.io/blog/integrate-adminlte-with-laravel
 ---
-* Lista Completas de informacões sobre laravel
+* Template Admin com Gerenciamento
+* http://laravel-admin.org/
+---
+* Lista Completa de informacões sobre laravel
 * https://github.com/chiraggude/awesome-laravel
