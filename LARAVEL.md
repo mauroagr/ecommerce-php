@@ -1,4 +1,5 @@
 # LARAVEL - TUTORIAIS
+
 * Introdução ao Laravel para Iniciantes no Framework PHP
 * http://jonathasguerra.com.br/blog/introducao-ao-laravel-para-iniciantes-no-framework-php/
 ---
@@ -19,3 +20,6 @@
 ---
 * Integrate AdminLTE with Laravel 5
 * https://adminlte.io/blog/integrate-adminlte-with-laravel
+---
+* Lista Completas de informacões sobre laravel
+* https://github.com/chiraggude/awesome-laravel
