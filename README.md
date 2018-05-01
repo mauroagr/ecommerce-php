@@ -21,6 +21,7 @@ Lista de Repositórios em php interessantes para desenvolvedor na área de ecomm
 * https://github.com/sebastianfeldmann/phpbu > PHP Backup Utility 
 * https://github.com/kraken-php/framework > Asynchronous & Fault-tolerant PHP Framework for Distributed Applications
 * https://github.com/matomo-org/device-detector > The Universal Device Detection library
+* https://github.com/serbanghita/Mobile-Detect > Lightweight PHP class for detecting mobile devices
 * https://github.com/mjaschen/phpgeo > Simple Geo Library for PHP
 * https://github.com/jolicode/JoliNotif > Send notifications to your desktop directly from your PHP script
 * https://github.com/thorsten/phpMyFAQ > Faq
