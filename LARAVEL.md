@@ -16,3 +16,6 @@
 ---
 * 13 Laravel Admin Panel Generators
 * https://laravel-news.com/13-laravel-admin-panel-generators
+---
+* Integrate AdminLTE with Laravel 5
+* https://adminlte.io/blog/integrate-adminlte-with-laravel
