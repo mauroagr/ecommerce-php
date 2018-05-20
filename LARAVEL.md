@@ -28,6 +28,9 @@
 * https://github.com/chiraggude/awesome-laravel
 ---
 
-### TEMPLATES ADMIN
+### TEMPLATES ADMIN BOOTSTRAP
 * https://github.com/modularcode/modular-admin-html
 * https://github.com/taboritis/coreui-laravel
+
+### TEMPLATE ADMIN COM BULMA
+* https://mazipan.github.io/bulma-admin-dashboard-template/
