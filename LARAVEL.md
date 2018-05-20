@@ -30,3 +30,4 @@
 
 ### TEMPLATES ADMIN
 * https://github.com/modularcode/modular-admin-html
+* https://github.com/taboritis/coreui-laravel
