@@ -29,5 +29,4 @@
 ---
 
 ### TEMPLATES ADMIN
-* Admin
 * https://github.com/modularcode/modular-admin-html
