@@ -26,3 +26,8 @@
 ---
 * Lista Completa de informacões sobre laravel
 * https://github.com/chiraggude/awesome-laravel
+---
+
+### TEMPLATES ADMIN
+* Admin
+* https://github.com/modularcode/modular-admin-html
