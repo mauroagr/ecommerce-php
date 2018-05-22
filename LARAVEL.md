@@ -34,5 +34,9 @@
 * https://github.com/derekphilipau/laravel-5.5-coreui-vue-separated
 * https://github.com/jeroennoten/Laravel-AdminLTE
 
+### TUTORIAL TEMPLATE
+* https://www.youtube.com/watch?v=hbK1q4YTtkM
+
+
 ### TEMPLATE ADMIN COM BULMA
 * https://mazipan.github.io/bulma-admin-dashboard-template/
