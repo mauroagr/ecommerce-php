@@ -32,6 +32,7 @@
 * https://github.com/modularcode/modular-admin-html
 * https://github.com/taboritis/coreui-laravel
 * https://github.com/derekphilipau/laravel-5.5-coreui-vue-separated
+* https://github.com/jeroennoten/Laravel-AdminLTE
 
 ### TEMPLATE ADMIN COM BULMA
 * https://mazipan.github.io/bulma-admin-dashboard-template/
