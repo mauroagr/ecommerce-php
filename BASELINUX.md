@@ -2,15 +2,17 @@ Como preparar uma maquina base em linux
 Linux Mint
 
 # google chrome
+```
 wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
 echo 'deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main' | sudo tee /etc/apt/sources.list.d/google-chrome.list
 sudo apt-get update 
 sudo apt-get install google-chrome-stable
+```
 
-#keeweb 
+# keeweb 
 - download normal e instalar usando instalador de pacotes
 
-#skype
+# skype
 Instalar pelo gerenciador de app
 
 # atom beta
@@ -46,19 +48,19 @@ sudo apt-get update
 sudo apt-get install postgresql postgresql-contrib
 https://www.digitalocean.com/community/tutorials/como-instalar-e-utilizar-o-postgresql-no-ubuntu-16-04-pt
 
-#composer
+# composer
 sudo apt-get update
 sudo apt-get install curl php-cli php-mbstring git unzip
 cd ~
 curl -sS https://getcomposer.org/installer -o composer-setup.php
 sudo php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 
-#nodejs & npm
+# nodejs & npm
 sudo apt-get update
 sudo apt-get install nodejs
 sudo apt-get install npm
 
-#git
+# git
 Para clonar um repositorio
 cd /
 cd var/www/
@@ -66,9 +68,7 @@ sudo chown username: html/ (username é o usario do linux)
 cd html/
 git clone https://usuariogit@github.com/xpto/xpto.git nomeDaPastaQueSeráCriada/
 
-#atualizar repositorio laravel
+# atualizar repositorio laravel
 composer install
 npm install
 npm run dev ou npm run prod
-
-
