@@ -87,7 +87,8 @@ git clone https://usuariogit@github.com/xpto/xpto.git nomeDaPastaQueSeráCriada/
 # atualizar repositorio laravel
 ```
 composer install
-npm install
+sudo npm install
+sudo npm install -g npm
 npm run dev 
 ou 
 npm run prod
