@@ -83,6 +83,8 @@ cd var/www/
 sudo chown username: html/ (username é o usario do linux)
 cd html/
 git clone https://usuariogit@github.com/xpto/xpto.git nomeDaPastaQueSeráCriada/
+git branch -a (lista os branch remotos também)
+
 ```
 
 
