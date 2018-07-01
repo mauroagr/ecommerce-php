@@ -92,9 +92,10 @@ git checkout experimental (para clonar os branchs e ativar)
 
 # atualizar repositorio laravel
 ```
+cd /
+cd var/www/html/pastaRepositorio
 composer install
-sudo npm install
-sudo npm install -g npm
+npm install
 npm run dev 
 ou 
 npm run prod
