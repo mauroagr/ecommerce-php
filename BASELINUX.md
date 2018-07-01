@@ -69,10 +69,10 @@ sudo php composer-setup.php --install-dir=/usr/local/bin --filename=composer
 # nodejs & npm
 ```
 sudo apt-get update
-sudo chown -R $USER /usr/local
-sudo apt-get install nodejs
-sudo apt-get install npm
-
+sudo chown -R $USER /usr/local (este aqui acho que nao é necessário rodar)
+curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+sudo apt-get install -y nodejs
+sudo apt-get install -y build-essential
 ```
 
 # git
