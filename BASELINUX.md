@@ -100,4 +100,25 @@ npm run dev
 ou 
 npm run prod
 cp .env.example .env
+php artisan key:generate
 ```
+
+# Em Desenvolvimento
+``` 
+- Operações com o git
+git checkout -b novobranch (cria um novo branch baseado no atual)
+git add .
+git commit -m "mensagem"
+git checkout branch (seta o repositorio no branch atual)
+git merge novobranch (ele vai unir o branch atual setado, com o 'novobranch' e vc poderá deletar o branch que foi criado)
+git checkout -d novobranch
+
+- Operações para criar build
+php artisan version:build (atualiza o numero da versão, após algum commit)
+
+
+```
+
+
+
+
