@@ -84,6 +84,8 @@ sudo chown username: html/ (username é o usario do linux)
 cd html/
 git clone https://usuariogit@github.com/xpto/xpto.git nomeDaPastaQueSeráCriada/
 git branch -a (lista os branch remotos também)
+git checkout origin/experimental (para clonar os branchs e ativar)
+git checkout experimental (para clonar os branchs e ativar)
 
 ```
 
