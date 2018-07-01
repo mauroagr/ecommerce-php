@@ -1,3 +1,9 @@
+# REPOSITORIOS LARAVEL
+* Inserir versão no codigo para facilitar identificação se teve atualização do build.
+* https://github.com/antonioribeiro/version
+
+---
+
 # LARAVEL - TUTORIAIS
 
 * Introdução ao Laravel para Iniciantes no Framework PHP
