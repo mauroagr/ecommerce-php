@@ -99,4 +99,5 @@ npm install
 npm run dev 
 ou 
 npm run prod
+cp .env.example .env
 ```
