@@ -90,7 +90,7 @@ git checkout experimental (para clonar os branchs e ativar)
 ```
 
 
-# atualizar repositorio laravel
+# Atualizar repositorio laravel
 ```
 cd /
 cd var/www/html/pastaRepositorio
@@ -103,7 +103,7 @@ cp .env.example .env
 php artisan key:generate
 ```
 
-# Em Desenvolvimento
+# codigos para usar durante o desenvolvimento
 ``` 
 - Operações com o git
 git checkout -b novobranch (cria um novo branch baseado no atual)
@@ -116,7 +116,8 @@ git checkout -d novobranch
 - Operações para criar build
 php artisan version:build (atualiza o numero da versão, após algum commit)
 
-
+- remover um arquivo que foi alterado e voltar ao original do branch
+git checkout -- caminho/nomedoarquivo
 ```
 
 
