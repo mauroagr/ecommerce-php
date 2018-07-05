@@ -45,6 +45,7 @@ sudo apt-get install php-pear php7.2-curl php7.2-dev php7.2-gd php7.2-mbstring p
 
 # mysql
 ```
+https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04
 sudo apt-get update
 sudo apt-get install mysql-server
 mysql_secure_installation
