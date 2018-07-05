@@ -24,7 +24,7 @@ sudo apt-get install atom-beta
 ```
 
 # wine
-- Instalar pelo gerenciador de App
+- https://wiki.winehq.org/Ubuntu
 
 # apache
 ```
