@@ -11,7 +11,7 @@ git diff --name-status hash_do_ultimo_commit hash_do_ultimo_commit --diff-filter
 ```
 
 
-- Operações com o git
+- Git basic operations
 ``` 
 git checkout -b novobranch (cria um novo branch baseado no atual)
 git add .
@@ -20,7 +20,8 @@ git checkout branch (seta o repositorio no branch atual)
 git merge novobranch (ele vai unir o branch atual setado, com o 'novobranch' e vc poderá deletar o branch que foi criado)
 git checkout -d novobranch
 ``` 
-- remover um arquivo que foi alterado e voltar ao original do branch
+
+- Remove file that was updated in branch, before add and commit and return to original branch file.
 ```
 git checkout -- caminho/nomedoarquivo
 ```
