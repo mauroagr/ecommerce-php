@@ -7,7 +7,7 @@ git init
 
 Specify a new remote upstream repository that will be synced with the fork.
 ```
-git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+git remote add origin https://usuario@github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
 ```
 
 - Checkout remote branch
