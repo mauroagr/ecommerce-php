@@ -5,6 +5,11 @@
 git init
 ```
 
+Specify a new remote upstream repository that will be synced with the fork.
+```
+git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+```
+
 - Checkout remote branch
 ```
 git checkout -b test origin/test
