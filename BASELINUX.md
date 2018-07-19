@@ -106,3 +106,5 @@ php artisan key:generate
 - Operações para criar build
 php artisan version:build (atualiza o numero da versão, após algum commit)
 ```
+# Script PHP version switch
+https://sujipthapa.co/blog/easily-switch-php-versions-on-linux-with-script
