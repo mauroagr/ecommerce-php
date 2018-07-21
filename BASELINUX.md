@@ -115,3 +115,12 @@ php artisan version:build (atualiza o numero da versão, após algum commit)
 ```
 # Script PHP version switch
 git clone https://github.com/mauroagr/php-switch-scripts.git troca_php
+cd troca_php
+```
+./setup.sh
+```
+- Para mudar de php, use:
+```
+./run-5.6.sh
+./run-7.2.sh
+```
