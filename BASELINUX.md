@@ -114,4 +114,4 @@ php artisan key:generate
 php artisan version:build (atualiza o numero da versão, após algum commit)
 ```
 # Script PHP version switch
-https://github.com/rapidwebltd/php-switch-scripts
+git clone https://github.com/mauroagr/php-switch-scripts.git troca_php
