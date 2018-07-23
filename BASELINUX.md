@@ -30,6 +30,7 @@ sudo apt-get install atom-beta
 ```
 sudo apt-get update
 sudo apt-get install apache2
+sudo a2enmod rewrite
 ```
 
 # php 7.2
