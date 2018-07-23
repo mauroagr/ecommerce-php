@@ -23,6 +23,8 @@ git commit -m "mensagem"
 git checkout branch (seta o repositorio no branch atual)
 git merge novobranch (ele vai unir o branch atual setado, com o 'novobranch' e vc poderá deletar o branch que foi criado)
 git checkout -d novobranch
+
+git push --set-upstream origin nomedobranch_local
 ``` 
 
 - ZIP all files added and updated between commits. Use when not have automatized deploy. Remember that this operation not remove the deleted files, only the added and updated.
