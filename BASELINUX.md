@@ -50,7 +50,15 @@ sudo apt-get update
 sudo apt-get install php5.6-common php5.6-cli php5.6 libapache2-mod-php5.6 php5.6-curl php5.6-dev php5.6-gd php5.6-mbstring php5.6-zip php5.6-mysql php5.6-xml php5.6-soap php5.6-pgsql php5.6-mysql
 ```
 
-# mysql
+# mysql 5.6
+- O prestashop não funcionou no mysql 5.7, então instalar o 5.6
+```
+sudo add-apt-repository 'deb http://archive.ubuntu.com/ubuntu trusty universe'
+sudo apt-get update
+sudo apt install mysql-server-5.6 * see note below if you get an error
+sudo apt install mysql-client-5.6
+```
+# mysql 5.7
 ```
 https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-18-04
 sudo apt-get update
