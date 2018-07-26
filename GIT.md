@@ -25,9 +25,8 @@ git merge novobranch (ele vai unir o branch atual setado, com o 'novobranch' e v
 git checkout -d novobranch
 
 git push --set-upstream origin nomedobranch_local
-
-
- git reset --hard (this discard all modification in the branch)
+git reset --hard (this discard all modification in the branch)
+git rev-list HEAD --count (show the number of commit from the branch. Can be used to versioning)
 ``` 
 
 - ZIP all files added and updated between commits. Use when not have automatized deploy. Remember that this operation not remove the deleted files, only the added and updated.
