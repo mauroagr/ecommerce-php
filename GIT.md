@@ -13,6 +13,7 @@ git remote add origin https://usuario@github.com/ORIGINAL_OWNER/ORIGINAL_REPOSIT
 - Checkout remote branch
 ```
 git checkout -b test origin/test
+git branch --set-upstream-to=origin/remotebranch localbranch
 ```
 
 - Git basic operations
