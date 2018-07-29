@@ -133,3 +133,9 @@ cd troca_php
 ./run-5.6.sh
 ./run-7.2.sh
 ```
+
+# XMIND
+INSTALLER
+https://github.com/dinos80152/XMind-Linux-Installer
+BUG
+http://support.xmind.net/customer/portal/questions/17144128-xmind-starts-but-then-is-aborted-just-before-starting-to-run
