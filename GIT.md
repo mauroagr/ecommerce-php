@@ -32,6 +32,7 @@ git stash (if you are working in branch and need go out from there to make fix i
 git stash apply (get the last files from stash operation and NOT remove the 'stashed' files)
 git stash pop (get the last files from stash operation and REMOVE it from stash space)
 git stash drop stash@{0} (REMOVE the stashed files from stash space)
+git reset (if you execute git add ., and will return the files, return to stage, use it)
 
 ``` 
 
