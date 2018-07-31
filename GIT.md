@@ -28,6 +28,11 @@ git checkout -d novobranch
 git push --set-upstream origin nomedobranch_local
 git reset --hard (this discard all modification in the branch)
 git rev-list HEAD --count (show the number of commit from the branch. Can be used to versioning)
+git stash (if you are working in branch and need go out from there to make fix in other branch, you can put the edited files without add/commit in space to storage and get the files after)
+git stash apply (get the last files from stash operation and NOT remove the 'stashed' files)
+git stash pop (get the last files from stash operation and REMOVE it from stash space)
+git stash drop stash@{0} (REMOVE the stashed files from stash space)
+
 ``` 
 
 - ZIP all files added and updated between commits. Use when not have automatized deploy. Remember that this operation not remove the deleted files, only the added and updated.
