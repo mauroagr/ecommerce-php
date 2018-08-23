@@ -13,6 +13,8 @@ To run this module, you need remove the PSmigrator installed in Step 1.
 ### Step 3:
 Upgrade from 1.0.3 to 1.0.4  
 https://thirtybees.com/blog/version-1-0-4-has-been-released/
+> BUG: Need delete 3 extra modules not listed in released upgrade
+- graphgooglechart, graphvisifire, graphxmlswfcharts
 
 ### Step 4:
 https://forum.thirtybees.com/topic/1870/say-hello-to-release-1-0-5
