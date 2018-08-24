@@ -33,7 +33,12 @@ git stash apply (get the last files from stash operation and NOT remove the 'sta
 git stash pop (get the last files from stash operation and REMOVE it from stash space)
 git stash drop stash@{0} (REMOVE the stashed files from stash space)
 git reset (if you execute git add ., and will return the files, return to stage, use it)
+``` 
 
+- Force the local branch to get status from remote
+```
+git fetch --all
+git reset --hard origin/<branch_name>
 ``` 
 
 - ZIP all files added and updated between commits. Use when not have automatized deploy. Remember that this operation not remove the deleted files, only the added and updated.
