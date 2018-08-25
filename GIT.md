@@ -40,6 +40,10 @@ git reset (if you execute git add ., and will return the files, return to stage,
 git fetch --all
 git reset --hard origin/<branch_name>
 ``` 
+- Create pull request from one commit
+https://poanchen.github.io/blog/2017/11/12/How-to-create-a-GitHub-pull-request-with-a-specific-commits
+
+
 
 - ZIP all files added and updated between commits. Use when not have automatized deploy. Remember that this operation not remove the deleted files, only the added and updated.
 - DONT USE - I THINK HAVE SOME BUG
