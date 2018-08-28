@@ -40,6 +40,17 @@ git reset (if you execute git add ., and will return the files, return to stage,
 git fetch --all
 git reset --hard origin/<branch_name>
 ``` 
+
+- Get content from specific commit, this is used to find bugs
+```
+git checkout COMMIT_HASH .
+```
+- To return a original status from branch after use checkout from commit
+```
+git reset --HARD
+```
+
+
 - Create pull request from one commit
 https://poanchen.github.io/blog/2017/11/12/How-to-create-a-GitHub-pull-request-with-a-specific-commits
 
