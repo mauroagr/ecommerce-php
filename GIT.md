@@ -47,7 +47,7 @@ git checkout COMMIT_HASH .
 ```
 - To return a original status from branch after use checkout from commit
 ```
-git reset --HARD
+git reset --hard
 ```
 
 
