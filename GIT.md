@@ -50,24 +50,11 @@ git checkout COMMIT_HASH .
 git reset --hard
 ```
 
-
 - Create pull request from one commit
 https://poanchen.github.io/blog/2017/11/12/How-to-create-a-GitHub-pull-request-with-a-specific-commits
 
-
-
-- ZIP all files added and updated between commits. Use when not have automatized deploy. Remember that this operation not remove the deleted files, only the added and updated.
-- DONT USE - I THINK HAVE SOME BUG
-```
-git archive --output=gitupdate.zip HEAD $(git diff --name-only hash_do_ultimo_commit hash_do_ultimo_commit --diff-filter=AM)
-```
-
-- Show all added and updated files between commmits
-```
-git diff --name-status hash_do_ultimo_commit hash_do_ultimo_commit --diff-filter=AM
-```
-
-
+-Shortcuts
+https://medium.freecodecamp.org/bash-shortcuts-to-enhance-your-git-workflow-5107d64ea0ff
 
 - Remove file that was updated in branch, before add and commit and return to original branch file.
 ```
