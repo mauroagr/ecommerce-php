@@ -60,3 +60,12 @@ https://medium.freecodecamp.org/bash-shortcuts-to-enhance-your-git-workflow-5107
 ```
 git checkout -- caminho/nomedoarquivo
 ```
+
+- Delete remote branch
+```
+git push origin :the_remote_branch
+```
+- Delete local branch
+```
+git branch -d nome_branch_local
+```
