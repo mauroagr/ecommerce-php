@@ -63,7 +63,7 @@ git checkout -- caminho/nomedoarquivo
 
 - Delete remote branch
 ```
-git push origin :the_remote_branch
+git push origin --delete the_remote_branch
 ```
 - Delete local branch
 ```
