@@ -21,3 +21,10 @@ https://forum.thirtybees.com/topic/1870/say-hello-to-release-1-0-5
 
 ### Step 5:
 https://forum.thirtybees.com/topic/1954/the-version-1-0-6-release-has-happened
+
+> RIJDAEL error, change this in ps_configuration table, find a key called PS_CIPHER_ALGORITHM set the value to 2, after this, clear the cache from TB in admin.
+
+
+## migration from 1.6.0.14 to 1.0.6 direct
+download  
+> RIJDAEL error, change this in ps_configuration table, find a key called PS_CIPHER_ALGORITHM set the value to 2, after this, clear the cache from TB in admin.
