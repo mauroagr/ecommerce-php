@@ -26,5 +26,5 @@ https://forum.thirtybees.com/topic/1954/the-version-1-0-6-release-has-happened
 
 
 ## migration from 1.6.0.14 to 1.0.6 direct
-download  
+ [Download 1.0.1](https://github.com/thirtybees/psonesixmigrator/releases/tag/1.0.1)
 > RIJDAEL error, change this in ps_configuration table, find a key called PS_CIPHER_ALGORITHM set the value to 2, after this, clear the cache from TB in admin.
