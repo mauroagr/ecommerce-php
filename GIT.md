@@ -69,3 +69,20 @@ git push origin --delete the_remote_branch
 ```
 git branch -d nome_branch_local
 ```
+## GIT IGNORE
+(https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
+### Ignoring a previously committed file
+```
+echo debug.log >> .gitignore
+git rm --cached debug.log
+rm 'debug.log'
+git commit -m "Start ignoring debug.log"
+```
+
+### Committing an ignored file
+```
+$ cat .gitignore
+*.log
+$ git add -f debug.log
+$ git commit -m "Force adding debug.log"
+```
