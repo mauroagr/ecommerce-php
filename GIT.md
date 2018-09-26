@@ -78,7 +78,7 @@ git rm --cached debug.log
 rm 'debug.log'
 git commit -m "Start ignoring debug.log"
 ```
-Example mutiples files: find modules/*/ -name "config*.xml" -exec git rm --cached {} \;
+Example mutiples files: find modules/\*/ -name "config\*.xml" -exec git rm --cached {} \;
 
 
 ### Committing an ignored file
