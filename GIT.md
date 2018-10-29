@@ -69,6 +69,18 @@ git push origin --delete the_remote_branch
 ```
 git branch -d nome_branch_local
 ```
+
+
+- if you push a branch with bad files, and you will back the master to the last good situations, make:
+```
+git checkout COMMIT_HASH .
+git branch -b new-branch
+git branch -D master  # goodbye old master (still in reflog)
+git branch -m new-branch master  # the new-branch is now my master
+- go to the github and create a backup branch from master.
+git push (the updated branch on local)
+```
+
 ## GIT IGNORE
 (https://www.atlassian.com/git/tutorials/saving-changes/gitignore)
 ### Ignoring a previously committed file
