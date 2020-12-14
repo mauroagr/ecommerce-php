@@ -40,4 +40,5 @@ Lista de Repositórios em php interessantes para desenvolvedor na área de ecomm
 * https://github.com/PatrickLouys/no-framework-tutorial 
 * https://github.com/PavelLoparev/design-patterns
 * https://github.com/jupeter/clean-code-php > Clean Code PHP
+* https://www.treinaweb.com.br/blog/streams-no-php/ > streams PHP
 
